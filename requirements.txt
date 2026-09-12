@@ -12,7 +12,10 @@ python-dotenv>=1.0
 
 # Backend: NLP / ML
 spacy>=3.7,<4.0
-sentence-transformers>=2.5
+#sentence-transformers>=2.5
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch==2.5.1+cpu
+sentence-transformers==3.4.1
 numpy>=1.26
 rapidfuzz>=3.6
 
