@@ -1,0 +1,160 @@
+2026-09-06 22:01:36,435 - INFO - Starting ATS Resume Analyzer API...
+2026-09-06 22:01:36,435 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-09-06 22:01:54,844 - WARNING - en_core_web_md not found — falling back to "en_core_web_sm
+2026-09-06 22:08:41,015 - INFO - Starting ATS Resume Analyzer API...
+2026-09-06 22:08:41,015 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-09-06 22:08:49,015 - INFO - Loaded en_core_web_md
+2026-09-06 22:08:49,016 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-09-06 22:11:07,530 - INFO - Loaded all-MiniLM-L6-v2
+2026-09-06 22:11:07,530 - INFO - All models loaded. API is ready to serve requests.
+2026-09-06 22:13:25,337 - INFO - shutting down the api!!
+2026-09-06 22:13:30,027 - INFO - Starting ATS Resume Analyzer API...
+2026-09-06 22:13:30,027 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-09-06 22:13:39,733 - INFO - Loaded en_core_web_md
+2026-09-06 22:13:39,733 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-09-06 22:14:04,019 - INFO - Loaded all-MiniLM-L6-v2
+2026-09-06 22:14:04,020 - INFO - All models loaded. API is ready to serve requests.
+2026-09-06 22:14:04,787 - INFO - shutting down the api!!
+2026-09-06 22:14:08,741 - INFO - Starting ATS Resume Analyzer API...
+2026-09-06 22:14:08,742 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-09-06 22:14:17,692 - INFO - Loaded en_core_web_md
+2026-09-06 22:14:17,692 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-09-06 22:14:41,244 - INFO - Loaded all-MiniLM-L6-v2
+2026-09-06 22:14:41,244 - INFO - All models loaded. API is ready to serve requests.
+2026-09-06 22:14:41,357 - INFO - shutting down the api!!
+2026-09-06 22:14:45,482 - INFO - Starting ATS Resume Analyzer API...
+2026-09-06 22:14:45,482 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-09-06 22:14:54,715 - INFO - Loaded en_core_web_md
+2026-09-06 22:14:54,715 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-09-06 22:15:16,982 - INFO - Loaded all-MiniLM-L6-v2
+2026-09-06 22:15:16,983 - INFO - All models loaded. API is ready to serve requests.
+2026-09-06 22:25:29,673 - ERROR - Neither SUPABASE_URL (for JWKS) nor SUPABASE_JWT_SECRET configured — cannot verify tokens
+2026-09-06 22:53:51,510 - INFO - shutting down the api!!
+2026-09-06 22:54:01,752 - INFO - Starting ATS Resume Analyzer API...
+2026-09-06 22:54:01,752 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-09-06 22:54:19,803 - INFO - Loaded en_core_web_md
+2026-09-06 22:54:19,803 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-09-06 22:55:34,516 - INFO - Loaded all-MiniLM-L6-v2
+2026-09-06 22:55:34,516 - INFO - All models loaded. API is ready to serve requests.
+2026-09-06 22:58:16,797 - INFO - Starting ATS Resume Analyzer API...
+2026-09-06 22:58:16,798 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-09-06 22:58:25,348 - INFO - Loaded en_core_web_md
+2026-09-06 22:58:25,348 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-09-06 22:58:50,401 - INFO - Loaded all-MiniLM-L6-v2
+2026-09-06 22:58:50,401 - INFO - All models loaded. API is ready to serve requests.
+2026-09-06 22:59:01,425 - ERROR - Neither SUPABASE_URL (for JWKS) nor SUPABASE_JWT_SECRET configured — cannot verify tokens
+2026-09-11 13:45:43,591 - INFO - Starting ATS Resume Analyzer API...
+2026-09-11 13:45:43,591 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-09-11 13:46:02,430 - INFO - Loaded en_core_web_md
+2026-09-11 13:46:02,431 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-09-11 13:47:22,977 - INFO - Loaded all-MiniLM-L6-v2
+2026-09-11 13:47:22,977 - INFO - All models loaded. API is ready to serve requests.
+2026-09-12 12:02:03,105 - INFO - Starting ATS Resume Analyzer API...
+2026-09-12 12:02:03,106 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-09-12 12:02:21,075 - INFO - Loaded en_core_web_md
+2026-09-12 12:02:21,075 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-09-12 12:03:37,705 - INFO - Loaded all-MiniLM-L6-v2
+2026-09-12 12:03:37,705 - INFO - All models loaded. API is ready to serve requests.
+2026-09-12 12:17:17,623 - ERROR - File parsing failed: failed to find libmagic.  Check your installation
+2026-09-12 12:17:59,544 - INFO - Starting ATS Resume Analyzer API...
+2026-09-12 12:17:59,544 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-09-12 12:18:10,991 - INFO - Loaded en_core_web_md
+2026-09-12 12:18:10,991 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-09-12 12:18:43,272 - INFO - Loaded all-MiniLM-L6-v2
+2026-09-12 12:18:43,272 - INFO - All models loaded. API is ready to serve requests.
+2026-09-12 12:31:51,977 - INFO - shutting down the api!!
+2026-09-12 12:32:51,000 - INFO - Starting ATS Resume Analyzer API...
+2026-09-12 12:32:51,000 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-09-12 12:33:01,866 - INFO - Loaded en_core_web_md
+2026-09-12 12:33:01,867 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-09-12 12:33:37,127 - INFO - Loaded all-MiniLM-L6-v2
+2026-09-12 12:33:37,128 - INFO - All models loaded. API is ready to serve requests.
+2026-09-12 12:34:18,735 - INFO - parse_Resume_file: parsing file :Ishika_aiML.pdf
+2026-09-12 12:34:20,178 - INFO - parse_resume_file: Extracted 7355 chars from Ishika_aiML.pdf
+2026-09-12 12:34:20,178 - INFO - Parsed 'Ishika_aiML.pdf': 7355 chars extracted
+2026-09-12 12:34:22,619 - ERROR - Full analysis pipeline failed: Error code: 404 - {'error': {'message': 'The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}
+2026-09-12 12:35:14,325 - INFO - shutting down the api!!
+2026-09-12 12:36:41,932 - INFO - shutting down the api!!
+2026-09-12 12:36:46,414 - INFO - Starting ATS Resume Analyzer API...
+2026-09-12 12:36:46,415 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-09-12 12:36:56,508 - INFO - Loaded en_core_web_md
+2026-09-12 12:36:56,508 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-09-12 12:37:24,249 - INFO - Loaded all-MiniLM-L6-v2
+2026-09-12 12:37:24,249 - INFO - All models loaded. API is ready to serve requests.
+2026-09-12 12:37:24,361 - INFO - shutting down the api!!
+2026-09-12 12:37:27,996 - INFO - Starting ATS Resume Analyzer API...
+2026-09-12 12:37:27,996 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-09-12 12:37:28,082 - INFO - Starting ATS Resume Analyzer API...
+2026-09-12 12:37:28,083 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-09-12 12:37:36,605 - INFO - Loaded en_core_web_md
+2026-09-12 12:37:36,606 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-09-12 12:37:36,694 - INFO - Loaded en_core_web_md
+2026-09-12 12:37:36,694 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-09-12 12:38:02,176 - INFO - Loaded all-MiniLM-L6-v2
+2026-09-12 12:38:02,176 - INFO - All models loaded. API is ready to serve requests.
+2026-09-12 12:38:02,888 - INFO - Loaded all-MiniLM-L6-v2
+2026-09-12 12:38:02,888 - INFO - All models loaded. API is ready to serve requests.
+2026-09-12 12:40:48,582 - INFO - parse_Resume_file: parsing file :Ishika_aiML.pdf
+2026-09-12 12:40:50,030 - INFO - parse_resume_file: Extracted 7355 chars from Ishika_aiML.pdf
+2026-09-12 12:40:50,030 - INFO - Parsed 'Ishika_aiML.pdf': 7355 chars extracted
+2026-09-12 12:40:59,476 - WARNING - Groq resume parse: first attempt returned invalid JSON, retrying...
+2026-09-12 12:41:05,814 - INFO - Groq parsed summary: 'Final-year Computer Science engineering student specializing in Data Science and Machine Learning. E'
+2026-09-12 12:41:05,814 - INFO - Groq parsed skills count: 33
+2026-09-12 12:41:05,814 - INFO - Groq parsed experience count: 1
+2026-09-12 12:41:15,302 - INFO - Saved analysis for user 95c5e5a0-f602-48ca-8df9-5e009da457bc: 1
+2026-09-12 12:44:21,458 - INFO - parse_Resume_file: parsing file :Ishika_joshi_web_ai_resume.pdf
+2026-09-12 12:44:22,540 - INFO - parse_resume_file: Extracted 8011 chars from Ishika_joshi_web_ai_resume.pdf
+2026-09-12 12:44:22,541 - INFO - Parsed 'Ishika_joshi_web_ai_resume.pdf': 8011 chars extracted
+2026-09-12 12:44:29,772 - WARNING - Groq resume parse: first attempt returned invalid JSON, retrying...
+2026-09-12 12:44:36,976 - INFO - Groq parsed summary: 'Final-year Computer Science Engineering student specializing in Artificial Intelligence, Machine Lea'
+2026-09-12 12:44:36,977 - INFO - Groq parsed skills count: 50
+2026-09-12 12:44:36,977 - INFO - Groq parsed experience count: 1
+2026-09-12 12:45:09,397 - INFO - Saved analysis for user 95c5e5a0-f602-48ca-8df9-5e009da457bc: 2
+2026-09-12 12:48:18,548 - INFO - shutting down the api!!
+2026-09-12 12:50:11,139 - INFO - Starting ATS Resume Analyzer API...
+2026-09-12 12:50:11,139 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-09-12 12:50:20,893 - INFO - Loaded en_core_web_md
+2026-09-12 12:50:20,893 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-09-12 12:50:54,288 - INFO - Loaded all-MiniLM-L6-v2
+2026-09-12 12:50:54,288 - INFO - All models loaded. API is ready to serve requests.
+2026-09-12 14:12:21,873 - INFO - shutting down the api!!
+2026-09-12 14:12:22,092 - INFO - shutting down the api!!
+2026-09-12 14:12:30,784 - INFO - Starting ATS Resume Analyzer API...
+2026-09-12 14:12:30,785 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-09-12 14:12:30,788 - INFO - Starting ATS Resume Analyzer API...
+2026-09-12 14:12:30,788 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-09-12 14:12:50,203 - INFO - Loaded en_core_web_md
+2026-09-12 14:12:50,203 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-09-12 14:12:50,205 - INFO - Loaded en_core_web_md
+2026-09-12 14:12:50,205 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-09-12 14:12:57,283 - INFO - Starting ATS Resume Analyzer API...
+2026-09-12 14:12:57,284 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-09-12 14:13:07,076 - INFO - Loaded en_core_web_md
+2026-09-12 14:13:07,076 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-09-12 14:14:15,987 - INFO - Loaded all-MiniLM-L6-v2
+2026-09-12 14:14:15,988 - INFO - All models loaded. API is ready to serve requests.
+2026-09-12 14:14:15,988 - INFO - Loaded all-MiniLM-L6-v2
+2026-09-12 14:14:15,989 - INFO - All models loaded. API is ready to serve requests.
+2026-09-12 14:14:16,095 - INFO - shutting down the api!!
+2026-09-12 14:14:16,193 - INFO - Loaded all-MiniLM-L6-v2
+2026-09-12 14:14:16,194 - INFO - All models loaded. API is ready to serve requests.
+2026-09-12 14:14:20,186 - INFO - Starting ATS Resume Analyzer API...
+2026-09-12 14:14:20,186 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-09-12 14:14:20,200 - INFO - Starting ATS Resume Analyzer API...
+2026-09-12 14:14:20,200 - INFO - Loading spaCy NLP model: en_core_web_md
+2026-09-12 14:14:28,569 - INFO - Loaded en_core_web_md
+2026-09-12 14:14:28,569 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-09-12 14:14:28,719 - INFO - Loaded en_core_web_md
+2026-09-12 14:14:28,719 - INFO - Loading SentenceTransformer: all-MiniLM-L6-v2
+2026-09-12 14:14:53,160 - INFO - Loaded all-MiniLM-L6-v2
+2026-09-12 14:14:53,160 - INFO - All models loaded. API is ready to serve requests.
+2026-09-12 14:14:53,160 - INFO - Loaded all-MiniLM-L6-v2
+2026-09-12 14:14:53,160 - INFO - All models loaded. API is ready to serve requests.
+2026-09-12 14:28:44,957 - INFO - parse_Resume_file: parsing file :Ishika_Joshi_web.pdf
+2026-09-12 14:28:46,104 - INFO - parse_resume_file: Extracted 6074 chars from Ishika_Joshi_web.pdf
+2026-09-12 14:28:46,104 - INFO - Parsed 'Ishika_Joshi_web.pdf': 6074 chars extracted
+2026-09-12 14:28:54,699 - WARNING - Groq resume parse: first attempt returned invalid JSON, retrying...
+2026-09-12 14:29:00,649 - INFO - Groq parsed summary: 'Final-year Computer Science student passionate about Full Stack Web Development. Skilled in building'
+2026-09-12 14:29:00,650 - INFO - Groq parsed skills count: 20
+2026-09-12 14:29:00,650 - INFO - Groq parsed experience count: 1
+2026-09-12 14:29:05,768 - INFO - Saved analysis for user 95c5e5a0-f602-48ca-8df9-5e009da457bc: 3
