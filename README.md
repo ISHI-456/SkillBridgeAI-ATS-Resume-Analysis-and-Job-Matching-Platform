@@ -1,15 +1,15 @@
-# 🌉 SkillBridge AI – ATS Resume Analysis & Job Matching Platform
+# SkillBridge AI – ATS Resume Analysis & Job Matching Platform
 
 > An AI-powered platform that analyzes resumes against ATS standards, scores them against job descriptions, matches candidates to relevant roles, and generates downloadable PDF reports.
 
 
 ---
 
-## 📌 Overview
+##  Overview
 
 **SkillBridge AI** helps job seekers see how their resume performs in ATS screening and which jobs fit their skills best. It parses uploaded resumes, extracts structured information with NLP, compares it with job descriptions using semantic similarity, and uses an LLM to produce clear, actionable feedback.
 
-## ✨ Features
+##  Features
 
 - 📄 **Resume Parsing**: Extracts text and details from PDF and DOCX files
 - 🎯 **ATS Score**: Compatibility score between a resume and a job description
@@ -34,7 +34,7 @@
                          └─────────────────────────┘
 ```
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Layer | Technologies |
 |-------|--------------|
@@ -46,7 +46,7 @@
 | **Reports** | Jinja2, WeasyPrint |
 | **Auth & Database** | Supabase (PyJWT, httpx REST client) |
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 SkillBridgeAI/
@@ -84,7 +84,7 @@ SkillBridgeAI/
 └── README.md
 ```
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -146,7 +146,7 @@ GROQ_API_KEY=your_groq_api_key
 BACKEND_URL=http://localhost:8000
 ```
 
-> ⚠️ Never commit your `.env` file. Make sure it is listed in `.gitignore`.
+
 
 ### Running the App
 
@@ -162,7 +162,7 @@ streamlit run frontend/streamlit_app.py
 ```
 Open `http://localhost:8501` in your browser.
 
-## 🧑‍💻 How to Use
+##  How to Use
 
 1. **Sign up / log in** with email or OAuth
 2. **Upload your resume** (PDF or DOCX)
@@ -171,13 +171,13 @@ Open `http://localhost:8501` in your browser.
 5. Browse **matching jobs** ranked by fit
 6. **Download the PDF report**
 
-## 🔌 API Documentation
+##  API Documentation
 
 With the backend running, visit `http://localhost:8000/docs` (Swagger UI) or `http://localhost:8000/redoc` for all endpoints.
 
 
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 - [ ] Live job feeds (LinkedIn / Indeed APIs)
 - [ ] AI resume rewriting
@@ -185,7 +185,7 @@ With the backend running, visit `http://localhost:8000/docs` (Swagger UI) or `ht
 - [ ] Cover letter generator
 - [ ] Docker support
 
-## 🤝 Contributing
+##  Contributing
 
 1. Fork the repository
 2. Create a branch: `git checkout -b feature/your-feature`
